@@ -176,7 +176,7 @@ function formatCurrencyBRL(value) {
           category.value = ""
           amount.value = ""
 
-          // coloca o foco no inputs de amount.
+          // coloca o foco no inputs de amount.`
           expense.focus() 
         }
 
